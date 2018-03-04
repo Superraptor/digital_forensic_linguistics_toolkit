@@ -10,6 +10,8 @@ The digital forensic linguistics toolkit uses random sampling of GitHub users to
 
 ## How I built it
 
+The toolkit was built simply by integrating existing API frameworks from GitHub and Microsoft, then chaining those together with feature extraction mechanisms. After that, the evaluation metrics utilizing `scikit-learn` machine learning package were designed.
+
 ## Challenges I ran into
 
 * Getting access to GitHub's API and Microsoft's Face API and not surpassing strict rate limits (couldn't afford to get banned)
