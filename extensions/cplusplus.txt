@@ -1,0 +1,14 @@
+CPP
+cxx
+CXX
+hpp
+cpp
+hxx
+Hxx
+HXX
+cc
+C
+c++
+h
+hh
+h++

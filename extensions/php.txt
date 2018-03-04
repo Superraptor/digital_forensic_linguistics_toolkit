@@ -1,0 +1,9 @@
+php
+php4
+php3
+phtml
+PHP
+php5
+php7
+phps
+php-s
